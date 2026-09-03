@@ -1,0 +1,59 @@
+about:
+  description: 🎯 A command line download/upload tool with resume.
+  license: MIT
+  homepage: 
+  head: 57bdaad
+  archived: false
+  latestVersion: 1.9.0
+  collectedAt: 2026-09-03T04:13:07Z
+timeline:
+  created: 2021-10-30
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 193
+  watcher: 3
+  fork: 6
+  release: 35
+  contributor: 2
+  pullRequest: 26
+  issue: 50
+language:
+  Rust: 106970
+  Just: 18347
+  Dockerfile: 1926
+  Shell: 998
+totalLine: 128241
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 3
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 1
+    openPR: 2
+    closedIssue: 0
+    openIssue: 5
+    commit: 3
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 1
+    openPR: 8
+    closedIssue: 0
+    openIssue: 9
+    commit: 6
+  last360d:
+    since: 2025-09-08
+    release: 3
+    mergedPR: 5
+    openPR: 8
+    closedIssue: 0
+    openIssue: 11
+    commit: 51
