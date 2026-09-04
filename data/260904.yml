@@ -7,7 +7,7 @@ about:
   head: 57bdaad
   archived: false
   latestVersion: 1.9.0
-  collectedAt: 2026-09-04T19:25:00Z
+  collectedAt: 2026-09-04T21:07:17Z
 timeline:
   created: 2021-10-30
   lastCommit: 2026-08-27
@@ -83,5 +83,43 @@ total:
   openIssue: 25
   commit: 1573
 ---
+path: /home/runner/.x-repo/github.com/mihaigalos/aim
+collectedAt: 2026-09-04T21:07:19Z
+loc:
+  Rust:
+    code: 2946
+    comments: 1
+    blanks: 431
+    files: 20
+  Dockerfile:
+    code: 70
+    comments: 0
+    blanks: 25
+    files: 5
+  Toml:
+    code: 57
+    comments: 0
+    blanks: 5
+    files: 1
+  Sh:
+    code: 35
+    comments: 2
+    blanks: 6
+    files: 2
+  Bitbake:
+    code: 14
+    comments: 0
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 528
+    blanks: 160
+    files: 3
+total:
+  code: 3145
+  comments: 531
+  blanks: 632
+  files: 32
 ---
 
