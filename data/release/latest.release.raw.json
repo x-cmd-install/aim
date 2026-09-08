@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6318688,
       "digest": "sha256:bdeb323ff5b27e4be19d3e318be6d42d3dc6cdb6db408697628ede3d69749805",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T06:00:23Z",
       "updated_at": "2026-08-27T06:00:24Z",
       "browser_download_url": "https://github.com/mihaigalos/aim/releases/download/1.9.0/aim_1.9.0_amd64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6671658,
       "digest": "sha256:8f0e06bcd04010bd22b3979fa13fc5610dbd918214254387f17e2d70b1831615",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-27T06:01:01Z",
       "updated_at": "2026-08-27T06:01:02Z",
       "browser_download_url": "https://github.com/mihaigalos/aim/releases/download/1.9.0/aim_1.9.0_i386.deb"
