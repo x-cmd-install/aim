@@ -4,7 +4,7 @@
 
 🎯 A command line download/upload tool with resume.
 
-![aim](https://repo.x-cmd.io/aim.svg)
+[![x-cmd/install — aim Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aim.svg)](https://x-cmd.com/install/aim)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **3,122** lines of code across **29** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-20 | 1 | 1 | 2 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 1 | 1 | 2 | 0 | 5 | 3 |
-| last180d | 2026-03-22 | 1 | 1 | 9 | 0 | 8 | 3 |
-| 360d | 2025-09-23 | 3 | 5 | 9 | 0 | 11 | 49 |
-| last720d | 2024-09-28 | 4 | 9 | 9 | 2 | 16 | 161 |
+| 30d | 2026-08-21 | 1 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 1 | 2 | 0 | 1 | 3 |
+| 90d | 2026-06-22 | 1 | 1 | 2 | 0 | 4 | 3 |
+| last180d | 2026-03-24 | 1 | 1 | 9 | 0 | 8 | 3 |
+| 360d | 2025-09-25 | 3 | 5 | 9 | 0 | 11 | 49 |
+| last720d | 2024-09-30 | 4 | 9 | 9 | 2 | 16 | 160 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for aim lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:19:40Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:05Z._
