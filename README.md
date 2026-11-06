@@ -37,22 +37,22 @@ Total: **3,122** lines of code across **29** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 193 · **Forks**: 6 · **Open issues**: 53 · **Contributors**: 2
+- **Stars**: 193 · **Forks**: 6 · **Open issues**: 54 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 240 · **Open PRs**: 10 · **Closed issues**: 25 · **Open issues**: 28 · **Commits**: 1573
+- **Releases**: 35 · **Merged PRs**: 240 · **Open PRs**: 10 · **Closed issues**: 25 · **Open issues**: 29 · **Commits**: 1573
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-08-07 | 1 | 1 | 1 | 0 | 4 | 3 |
-| last180d | 2026-05-09 | 1 | 1 | 3 | 0 | 8 | 3 |
-| 360d | 2025-11-10 | 3 | 5 | 9 | 0 | 14 | 38 |
-| last720d | 2024-11-15 | 4 | 9 | 9 | 2 | 18 | 144 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 4 | 0 |
+| 90d | 2026-08-08 | 1 | 1 | 1 | 0 | 5 | 3 |
+| last180d | 2026-05-10 | 1 | 1 | 3 | 0 | 9 | 3 |
+| 360d | 2025-11-11 | 3 | 5 | 9 | 0 | 15 | 38 |
+| last720d | 2024-11-16 | 4 | 9 | 9 | 2 | 19 | 144 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for aim lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:06:38Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:54:50Z._
