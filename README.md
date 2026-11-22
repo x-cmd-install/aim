@@ -32,27 +32,27 @@ Total: **3,122** lines of code across **29** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.9.0` (2026-08-27)
-- **Last commit**: 2026-08-27
+- **Last commit**: 2026-11-21
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 193 · **Forks**: 6 · **Open issues**: 56 · **Contributors**: 2
+- **Stars**: 193 · **Forks**: 7 · **Open issues**: 57 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 240 · **Open PRs**: 10 · **Closed issues**: 25 · **Open issues**: 31 · **Commits**: 1573
+- **Releases**: 35 · **Merged PRs**: 241 · **Open PRs**: 10 · **Closed issues**: 26 · **Open issues**: 31 · **Commits**: 1575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 6 | 0 |
-| 90d | 2026-08-23 | 1 | 1 | 1 | 0 | 6 | 3 |
-| last180d | 2026-05-25 | 1 | 1 | 3 | 0 | 11 | 3 |
-| 360d | 2025-11-26 | 3 | 5 | 9 | 0 | 16 | 36 |
-| last720d | 2024-12-01 | 4 | 9 | 9 | 2 | 21 | 144 |
+| 30d | 2026-10-23 | 0 | 1 | 0 | 1 | 3 | 1 |
+| last60d | 2026-09-23 | 0 | 1 | 0 | 1 | 6 | 1 |
+| 90d | 2026-08-24 | 1 | 2 | 1 | 1 | 6 | 1 |
+| last180d | 2026-05-26 | 1 | 2 | 3 | 1 | 11 | 4 |
+| 360d | 2025-11-27 | 3 | 6 | 9 | 1 | 16 | 35 |
+| last720d | 2024-12-02 | 4 | 10 | 9 | 3 | 21 | 146 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for aim lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:46:32Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:44:39Z._
