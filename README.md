@@ -47,12 +47,12 @@ Total: **3,122** lines of code across **29** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 6 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 1 | 0 | 6 | 0 |
-| last180d | 2026-05-31 | 1 | 1 | 3 | 0 | 11 | 3 |
-| 360d | 2025-12-02 | 3 | 5 | 9 | 0 | 16 | 34 |
-| last720d | 2024-12-07 | 4 | 8 | 9 | 2 | 21 | 142 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 0 | 0 | 6 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 1 | 0 | 6 | 0 |
+| last180d | 2026-06-01 | 1 | 1 | 3 | 0 | 11 | 3 |
+| 360d | 2025-12-03 | 3 | 5 | 9 | 0 | 16 | 34 |
+| last720d | 2024-12-08 | 4 | 8 | 9 | 2 | 20 | 141 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for aim lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:46:53Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:17:23Z._
